@@ -1,6 +1,7 @@
 body {
     background-color:red;
     padding:1em;
-    margin:20px;
+    margin:20px;  
     font-size:13px;
+    border:2px solid #000;
 }
